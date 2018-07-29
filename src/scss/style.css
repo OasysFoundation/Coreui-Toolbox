@@ -8043,7 +8043,7 @@ canvas {
   flex-direction: column;
   padding: 0;
   color: #fff;
-  background: #00695c; }
+  background: #2f353a; }
   .sidebar .sidebar-close {
     position: absolute;
     right: 0;
@@ -8119,7 +8119,7 @@ canvas {
       margin-top: 2px; }
     .sidebar .nav-link.active {
       color: #fff;
-      background: #00897b; }
+      background: #3a4248; }
       .sidebar .nav-link.active .nav-icon {
         color: #20a8d8; }
     .sidebar .nav-link:hover {
@@ -9865,6 +9865,12 @@ body {
 
 .app-header .navbar-nav .dropdown-menu-right {
   right: auto; }
+
+.sidebar {
+  background: #004d40; }
+
+.sidebar .nav-link.active {
+  background: #00695c; }
 
 html body .app.flex-row.align-items-center {
   height: 100vh; }
